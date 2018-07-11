@@ -1,8 +1,6 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# PCCard_MagneticEncoding_VB.NET
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 10 10 24 am" src="https://user-images.githubusercontent.com/41017424/42519504-cefe65b2-8429-11e8-9697-98de973329f9.png">
